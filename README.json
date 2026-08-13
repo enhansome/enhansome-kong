@@ -1,0 +1,271 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes Ingress Controller",
+          "description": "Use Kong for Kubernetes Ingress",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T02:57:30Z",
+            "owner": "Kong",
+            "repo": "kubernetes-ingress-controller",
+            "stars": 2410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Docker distribution for Kong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-17T08:38:54Z",
+            "owner": "Kong",
+            "repo": "docker-kong",
+            "stars": 1482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "Kubernetes managed Kong cluster",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-01-02T18:02:54Z",
+            "owner": "Kong",
+            "repo": "kong-dist-kubernetes",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vagrant",
+          "description": "Vagrantfile for provisioning a development ready environment for Kong",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-07-12T10:36:34Z",
+            "owner": "Kong",
+            "repo": "kong-vagrant",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroku",
+          "description": "Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2022-02-12T12:42:57Z",
+            "owner": "heroku",
+            "repo": "heroku-kong",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homebrew",
+          "description": "Homebrew Formula for Kong",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-04-06T11:10:56Z",
+            "owner": "Kong",
+            "repo": "homebrew-kong",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Cloudformation",
+          "description": "This CloudFormation template helps you model and set up Kong's resources in AWS easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-06T18:52:38Z",
+            "owner": "Kong",
+            "repo": "kong-dist-cloudformation",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Konga",
+          "description": "More than just another GUI to Kong Admin API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-04-29T22:23:50Z",
+            "owner": "pantsel",
+            "repo": "konga",
+            "stars": 4353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kong Dashboard",
+          "description": "Dashboard for managing Kong gateway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-22T09:43:21Z",
+            "owner": "PGBI",
+            "repo": "kong-dashboard",
+            "stars": 2162
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "decK",
+          "description": "CLI tool to configure Kong declaratively using a single config file (Compatiable with Kong 1.x)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T06:23:33Z",
+            "owner": "Kong",
+            "repo": "deck",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kongfig",
+          "description": "Declarative configuration for Kong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-25T04:04:28Z",
+            "owner": "mybuilder",
+            "repo": "kongfig",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform Provider Kong",
+          "description": "The Kong Terraform Provider tested against real Kong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-11T08:58:06Z",
+            "owner": "kevholditch",
+            "repo": "terraform-provider-kong",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Kong",
+          "description": "Installs and Configures Kong with Ansible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-02-28T16:12:20Z",
+            "owner": "wunzeco",
+            "repo": "ansible-kong",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Custom Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kong OpenID Connect",
+          "description": "Plugin for Kong implementing the OpenID Connect Relying Party (RP) functionality",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2026-05-18T14:27:06Z",
+            "owner": "nokia",
+            "repo": "kong-oidc",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kong External OAuth 2.0",
+          "description": "Use an external OAuth 2.0 provider to protect your API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-01-09T05:35:34Z",
+            "owner": "mogui",
+            "repo": "kong-external-oauth",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Auth Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "Like this project? Follow the repository on GitHub. And if you're feeling especially charitable, follow posquit0 on GitHub.",
+      "items": [],
+      "title": "Self Promotion"
+    },
+    {
+      "description": "To the extent possible under law, Byungjin Park has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:03:00.835Z",
+    "original_repository": "posquit0/awesome-kong",
+    "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
+    "enhanced_repository": "enhansome/enhansome-kong",
+    "enhanced_repository_description": null,
+    "title": "Awesome kong with stars"
+  }
+}
