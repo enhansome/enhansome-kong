@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T13:52:52Z",
+            "last_commit": "2026-08-15T14:54:25Z",
             "owner": "Kong",
             "repo": "deck",
             "stars": 502
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:01:12.459Z",
+    "last_updated": "2026-08-15T19:41:45.470Z",
     "original_repository": "posquit0/awesome-kong",
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
     "enhanced_repository": "enhansome/enhansome-kong",
