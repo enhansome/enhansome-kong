@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T08:13:56Z",
+            "last_commit": "2026-08-16T14:58:02Z",
             "owner": "Kong",
             "repo": "kubernetes-ingress-controller",
-            "stars": 2411
+            "stars": 2409
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2024-04-29T22:23:50Z",
             "owner": "pantsel",
             "repo": "konga",
-            "stars": 4353
+            "stars": 4352
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T14:54:25Z",
+            "last_commit": "2026-08-16T18:20:38Z",
             "owner": "Kong",
             "repo": "deck",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:41:45.470Z",
+    "last_updated": "2026-08-16T19:40:34.797Z",
     "original_repository": "posquit0/awesome-kong",
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
     "enhanced_repository": "enhansome/enhansome-kong",
