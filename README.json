@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 127765544,
                 "language": "Go",
-                "last_commit": "2026-08-19T02:55:02Z",
+                "last_commit": "2026-08-19T14:33:22Z",
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
                 "stars": 2409
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:40.676Z",
+    "last_updated": "2026-08-19T19:46:44.127Z",
     "original_repository": "posquit0/awesome-kong",
     "original_repository_id": 150868981,
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
