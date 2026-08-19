@@ -45,7 +45,7 @@
 
 ### Distributions
 
-* [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,409 | 🐛 276 | 🌐 Go | 📅 2026-08-18 - Use Kong for Kubernetes Ingress
+* [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,409 | 🐛 277 | 🌐 Go | 📅 2026-08-19 - Use Kong for Kubernetes Ingress
 * [Docker](https://github.com/Kong/docker-kong) ⭐ 1,482 | 🐛 32 | 🌐 Shell | 📅 2026-06-17 - Docker distribution for Kong
 * [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) ⚠️ Archived - Kubernetes managed Kong cluster
 * [Vagrant](https://github.com/Kong/kong-vagrant) ⚠️ Archived - Vagrantfile for provisioning a development ready environment for Kong
@@ -60,7 +60,7 @@
 
 ### Configuration
 
-* [decK](https://github.com/hbagdi/deck) ⭐ 503 | 🐛 99 | 🌐 Go | 📅 2026-08-18 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
+* [decK](https://github.com/hbagdi/deck) ⭐ 503 | 🐛 97 | 🌐 Go | 📅 2026-08-19 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 * [Kongfig](https://github.com/mybuilder/kongfig) ⭐ 371 | 🐛 68 | 🌐 JavaScript | 📅 2023-01-25 - Declarative configuration for Kong
 * [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) ⭐ 178 | 🐛 16 | 🌐 Go | 📅 2024-04-11 - The Kong Terraform Provider tested against real Kong
 * [Ansible Kong](https://github.com/wunzeco/ansible-kong) ⭐ 29 | 🐛 5 | 🌐 Ruby | 📅 2020-02-28 - Installs and Configures Kong with Ansible
@@ -122,4 +122,4 @@ To the extent possible under law, [Byungjin Park](http://www.posquit0.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
