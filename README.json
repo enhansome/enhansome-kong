@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T17:31:20Z",
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
-                "stars": 2409
+                "stars": 2408
               }
             },
             {
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:44:40.099Z",
+    "last_updated": "2026-08-22T19:42:34.058Z",
     "original_repository": "posquit0/awesome-kong",
     "original_repository_id": 150868981,
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
