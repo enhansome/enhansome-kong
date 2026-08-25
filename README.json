@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 157048481,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:38:54Z",
+                "last_commit": "2026-08-25T18:44:53Z",
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 503
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:00.864Z",
+    "last_updated": "2026-08-25T19:52:07.360Z",
     "original_repository": "posquit0/awesome-kong",
     "original_repository_id": 150868981,
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",

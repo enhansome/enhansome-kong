@@ -60,7 +60,7 @@
 
 ### Configuration
 
-* [decK](https://github.com/hbagdi/deck) ⭐ 503 | 🐛 96 | 🌐 Go | 📅 2026-08-24 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
+* [decK](https://github.com/hbagdi/deck) ⭐ 503 | 🐛 96 | 🌐 Go | 📅 2026-08-25 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 * [Kongfig](https://github.com/mybuilder/kongfig) ⭐ 371 | 🐛 68 | 🌐 JavaScript | 📅 2023-01-25 - Declarative configuration for Kong
 * [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) ⭐ 178 | 🐛 16 | 🌐 Go | 📅 2024-04-11 - The Kong Terraform Provider tested against real Kong
 * [Ansible Kong](https://github.com/wunzeco/ansible-kong) ⭐ 29 | 🐛 5 | 🌐 Ruby | 📅 2020-02-28 - Installs and Configures Kong with Ansible
