@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 127765544,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:45:32Z",
+                "last_commit": "2026-08-27T14:33:43Z",
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
                 "stars": 2408
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 157048481,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:30:40Z",
+                "last_commit": "2026-08-27T17:42:09Z",
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 503
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:44.323Z",
+    "last_updated": "2026-08-28T03:37:24.357Z",
     "original_repository_info": {
       "archived": false,
       "id": 150868981,
