@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 127765544,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:33:43Z",
+                "last_commit": "2026-08-28T03:54:36Z",
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
                 "stars": 2408
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Kong",
                 "repo": "docker-kong",
                 "stars": 1482
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Kong",
                 "repo": "kong-dist-kubernetes",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Kong",
                 "repo": "kong-vagrant",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "heroku",
                 "repo": "heroku-kong",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Kong",
                 "repo": "homebrew-kong",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "Kong",
                 "repo": "kong-dist-cloudformation",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             }
           ],
           "description": null,
@@ -130,7 +137,8 @@
                 "owner": "pantsel",
                 "repo": "konga",
                 "stars": 4351
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "PGBI",
                 "repo": "kong-dashboard",
                 "stars": 2162
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             }
           ],
           "description": null,
@@ -167,7 +176,8 @@
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "mybuilder",
                 "repo": "kongfig",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "kevholditch",
                 "repo": "terraform-provider-kong",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "wunzeco",
                 "repo": "ansible-kong",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "nokia",
                 "repo": "kong-oidc",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "mogui",
                 "repo": "kong-external-oauth",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T02:19:34.827Z"
             }
           ],
           "description": null,
@@ -267,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:37:24.357Z",
+    "last_updated": "2026-08-29T02:19:34.827Z",
     "original_repository_info": {
       "archived": false,
       "id": 150868981,
