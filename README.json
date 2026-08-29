@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.",
+                "homepage": "https://docs.konghq.com/kubernetes-ingress-controller/",
                 "id": 127765544,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:54:36Z",
+                "open_issues": 278,
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
-                "stars": 2408
+                "stars": 2408,
+                "topics": [
+                  "apis",
+                  "crds",
+                  "ingress",
+                  "ingress-controller",
+                  "k8s",
+                  "kong",
+                  "kubernetes",
+                  "kubernetes-ingress",
+                  "kubernetes-ingress-controller",
+                  "microservices",
+                  "team-k8s"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -28,12 +45,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":monkey: Docker distribution for Kong",
+                "homepage": "https://docs.konghq.com/gateway/latest/install/docker/",
                 "id": 31050380,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-17T08:38:54Z",
+                "open_issues": 32,
                 "owner": "Kong",
                 "repo": "docker-kong",
-                "stars": 1482
+                "stars": 1482,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -44,12 +66,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kubernetes managed Kong cluster ",
+                "homepage": null,
                 "id": 67170800,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-01-02T18:02:54Z",
+                "open_issues": 4,
                 "owner": "Kong",
                 "repo": "kong-dist-kubernetes",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "kong",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -60,12 +90,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":monkey: Vagrantfile for Kong testing and development",
+                "homepage": "https://docs.konghq.com",
                 "id": 39476800,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-12T10:36:34Z",
+                "open_issues": 0,
                 "owner": "Kong",
                 "repo": "kong-vagrant",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -76,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐒 Kong API gateway as a Heroku app",
+                "homepage": "https://konghq.com/",
                 "id": 48390183,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-02-12T12:42:57Z",
+                "open_issues": 1,
                 "owner": "heroku",
                 "repo": "heroku-kong",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -92,12 +132,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":monkey: Homebrew tap for Kong",
+                "homepage": "https://getkong.org",
                 "id": 34024586,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2023-04-06T11:10:56Z",
+                "open_issues": 2,
                 "owner": "Kong",
                 "repo": "homebrew-kong",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "archived",
+                  "deprecated",
+                  "obsolete"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -108,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":monkey: Kong CloudFormation Stack",
+                "homepage": null,
                 "id": 39849954,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-06T18:52:38Z",
+                "open_issues": 6,
                 "owner": "Kong",
                 "repo": "kong-dist-cloudformation",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             }
@@ -131,12 +185,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "More than just another GUI to Kong Admin API",
+                "homepage": null,
                 "id": 71629506,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-29T22:23:50Z",
+                "open_issues": 362,
                 "owner": "pantsel",
                 "repo": "konga",
-                "stars": 4351
+                "stars": 4351,
+                "topics": [
+                  "kong",
+                  "kong-admin-gui"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -147,12 +209,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dashboard for managing Kong gateway",
+                "homepage": null,
                 "id": 46101593,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-22T09:43:21Z",
+                "open_issues": 55,
                 "owner": "PGBI",
                 "repo": "kong-dashboard",
-                "stars": 2162
+                "stars": 2162,
+                "topics": [
+                  "kong",
+                  "kong-dashboard",
+                  "kong-gateway"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             }
@@ -170,12 +241,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "decK: Configuration management and drift detection for Kong",
+                "homepage": "https://docs.konghq.com/deck/overview",
                 "id": 157048481,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:42:09Z",
+                "open_issues": 99,
                 "owner": "Kong",
                 "repo": "deck",
-                "stars": 503
+                "stars": 503,
+                "topics": [
+                  "configuration-management",
+                  "declarative",
+                  "declarative-config",
+                  "diff",
+                  "gitops",
+                  "kong",
+                  "kongfig",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -186,12 +271,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative configuration for Kong",
+                "homepage": null,
                 "id": 44193541,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-25T04:04:28Z",
+                "open_issues": 68,
                 "owner": "mybuilder",
                 "repo": "kongfig",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "kong"
+                ]
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -202,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kong provider for terraform",
+                "homepage": null,
                 "id": 111571503,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-11T08:58:06Z",
+                "open_issues": 16,
                 "owner": "kevholditch",
                 "repo": "terraform-provider-kong",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -218,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Installs and Configures Kong",
+                "homepage": null,
                 "id": 55075768,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2020-02-28T16:12:20Z",
+                "open_issues": 5,
                 "owner": "wunzeco",
                 "repo": "ansible-kong",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             }
@@ -247,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OIDC plugin for Kong",
+                "homepage": null,
                 "id": 94380475,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-18T14:27:06Z",
+                "open_issues": 106,
                 "owner": "nokia",
                 "repo": "kong-oidc",
-                "stars": 492
+                "stars": 492,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             },
@@ -263,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kong plugin, that let you use an external Oauth 2.0 provider to protect your API",
+                "homepage": null,
                 "id": 77902760,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2018-01-09T05:35:34Z",
+                "open_issues": 5,
                 "owner": "mogui",
                 "repo": "kong-external-oauth",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
             }
@@ -282,15 +394,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:19:34.827Z",
+    "last_updated": "2026-08-29T04:58:14.285Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of awesome resources for Kong API Gateway",
+      "homepage": null,
       "id": 150868981,
       "language": null,
+      "license": null,
       "last_commit": "2019-09-10T02:42:31Z",
+      "open_issues": 3,
       "owner": "posquit0",
       "repo": "awesome-kong",
-      "stars": 111
+      "stars": 111,
+      "topics": [
+        "api-gateway",
+        "awesome",
+        "awesome-list",
+        "kong",
+        "kong-api",
+        "kong-api-gateway"
+      ]
     },
     "original_repository_sha": "2b8d70172b1347474860b7ffe56a619c2e465ded",
     "enhanced_repository": "enhansome/enhansome-kong",
