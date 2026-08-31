@@ -54,7 +54,7 @@
                 "open_issues": 32,
                 "owner": "Kong",
                 "repo": "docker-kong",
-                "stars": 1483,
+                "stars": 1482,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:19:34.827Z"
@@ -246,8 +246,8 @@
                 "id": 157048481,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T11:16:45Z",
-                "open_issues": 99,
+                "last_commit": "2026-08-31T16:42:44Z",
+                "open_issues": 105,
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 503,
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:56:01.248Z",
+    "last_updated": "2026-08-31T23:15:22.642Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome resources for Kong API Gateway",
