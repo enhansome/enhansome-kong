@@ -45,7 +45,7 @@
 
 ### Distributions
 
-* [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,413 | 🐛 285 | 🌐 Go | 📅 2026-09-18 - Use Kong for Kubernetes Ingress
+* [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,413 | 🐛 280 | 🌐 Go | 📅 2026-09-20 - Use Kong for Kubernetes Ingress
 * [Docker](https://github.com/Kong/docker-kong) ⭐ 1,483 | 🐛 32 | 🌐 Shell | 📅 2026-06-17 - Docker distribution for Kong
 * [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) ⚠️ Archived - Kubernetes managed Kong cluster
 * [Vagrant](https://github.com/Kong/kong-vagrant) ⚠️ Archived - Vagrantfile for provisioning a development ready environment for Kong
@@ -122,4 +122,4 @@ To the extent possible under law, [Byungjin Park](http://www.posquit0.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
