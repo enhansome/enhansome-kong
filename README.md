@@ -56,11 +56,11 @@
 ### GUI
 
 * [Konga](https://github.com/pantsel/konga) ⚠️ Archived - More than just another GUI to Kong Admin API
-* [Kong Dashboard](https://github.com/PGBI/kong-dashboard) ⭐ 2,163 | 🐛 55 | 🌐 JavaScript | 📅 2020-10-22 - Dashboard for managing Kong gateway
+* [Kong Dashboard](https://github.com/PGBI/kong-dashboard) ⭐ 2,162 | 🐛 55 | 🌐 JavaScript | 📅 2020-10-22 - Dashboard for managing Kong gateway
 
 ### Configuration
 
-* [decK](https://github.com/hbagdi/deck) ⭐ 504 | 🐛 108 | 🌐 Go | 📅 2026-10-01 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
+* [decK](https://github.com/hbagdi/deck) ⭐ 504 | 🐛 109 | 🌐 Go | 📅 2026-10-02 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 * [Kongfig](https://github.com/mybuilder/kongfig) ⭐ 371 | 🐛 68 | 🌐 JavaScript | 📅 2023-01-25 - Declarative configuration for Kong
 * [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) ⭐ 178 | 🐛 16 | 🌐 Go | 📅 2024-04-11 - The Kong Terraform Provider tested against real Kong
 * [Ansible Kong](https://github.com/wunzeco/ansible-kong) ⭐ 29 | 🐛 5 | 🌐 Ruby | 📅 2020-02-28 - Installs and Configures Kong with Ansible
@@ -122,4 +122,4 @@ To the extent possible under law, [Byungjin Park](http://www.posquit0.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

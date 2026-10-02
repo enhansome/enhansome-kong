@@ -218,7 +218,7 @@
                 "open_issues": 55,
                 "owner": "PGBI",
                 "repo": "kong-dashboard",
-                "stars": 2163,
+                "stars": 2162,
                 "topics": [
                   "kong",
                   "kong-dashboard",
@@ -246,8 +246,8 @@
                 "id": 157048481,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T09:08:00Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-02T03:41:13Z",
+                "open_issues": 109,
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 504,
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:16:12.231Z",
+    "last_updated": "2026-10-02T23:06:00.361Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome resources for Kong API Gateway",
