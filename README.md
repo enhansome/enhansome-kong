@@ -112,7 +112,7 @@
 
 ## Self Promotion
 
-Like this project? Follow the repository on [GitHub](https://github.com/posquit0/awesome-kong) ⭐ 111 | 🐛 3 | 📅 2019-09-10. And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
+Like this project? Follow the repository on [GitHub](https://github.com/posquit0/awesome-kong). And if you're feeling especially charitable, follow [posquit0](https://posquit0.com) on [GitHub](https://github.com/posquit0).
 
 ## License
 
@@ -122,4 +122,4 @@ To the extent possible under law, [Byungjin Park](http://www.posquit0.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
