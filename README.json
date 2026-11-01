@@ -246,11 +246,11 @@
                 "id": 157048481,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T14:39:53Z",
-                "open_issues": 112,
+                "last_commit": "2026-11-01T14:31:11Z",
+                "open_issues": 113,
                 "owner": "Kong",
                 "repo": "deck",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "configuration-management",
                   "declarative",
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:37:38.987Z",
+    "last_updated": "2026-11-01T22:55:41.849Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome resources for Kong API Gateway",
