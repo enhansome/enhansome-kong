@@ -46,7 +46,7 @@
 ### Distributions
 
 * [Kubernetes Ingress Controller](https://github.com/Kong/kubernetes-ingress-controller) ⭐ 2,415 | 🐛 292 | 🌐 Go | 📅 2026-11-14 - Use Kong for Kubernetes Ingress
-* [Docker](https://github.com/Kong/docker-kong) ⭐ 1,482 | 🐛 32 | 🌐 Shell | 📅 2026-10-13 - Docker distribution for Kong
+* [Docker](https://github.com/Kong/docker-kong) ⭐ 1,481 | 🐛 32 | 🌐 Shell | 📅 2026-10-13 - Docker distribution for Kong
 * [Kubernetes](https://github.com/Kong/kong-dist-kubernetes) ⚠️ Archived - Kubernetes managed Kong cluster
 * [Vagrant](https://github.com/Kong/kong-vagrant) ⚠️ Archived - Vagrantfile for provisioning a development ready environment for Kong
 * [Heroku](https://github.com/heroku/heroku-kong) ⚠️ Archived - Deploy Kong Community Edition clusters to Heroku Common Runtime and Private Spaces using the Kong buildpack
@@ -56,11 +56,11 @@
 ### GUI
 
 * [Konga](https://github.com/pantsel/konga) ⚠️ Archived - More than just another GUI to Kong Admin API
-* [Kong Dashboard](https://github.com/PGBI/kong-dashboard) ⭐ 2,160 | 🐛 55 | 🌐 JavaScript | 📅 2020-10-22 - Dashboard for managing Kong gateway
+* [Kong Dashboard](https://github.com/PGBI/kong-dashboard) ⭐ 2,161 | 🐛 55 | 🌐 JavaScript | 📅 2020-10-22 - Dashboard for managing Kong gateway
 
 ### Configuration
 
-* [decK](https://github.com/hbagdi/deck) ⭐ 507 | 🐛 118 | 🌐 Go | 📅 2026-11-14 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
+* [decK](https://github.com/hbagdi/deck) ⭐ 507 | 🐛 118 | 🌐 Go | 📅 2026-11-15 - CLI tool to configure Kong declaratively using a single config file **(Compatiable with Kong 1.x)**
 * [Kongfig](https://github.com/mybuilder/kongfig) ⭐ 371 | 🐛 68 | 🌐 JavaScript | 📅 2023-01-25 - Declarative configuration for Kong
 * [Terraform Provider Kong](https://github.com/kevholditch/terraform-provider-kong) ⭐ 178 | 🐛 16 | 🌐 Go | 📅 2024-04-11 - The Kong Terraform Provider tested against real Kong
 * [Ansible Kong](https://github.com/wunzeco/ansible-kong) ⭐ 29 | 🐛 5 | 🌐 Ruby | 📅 2020-02-28 - Installs and Configures Kong with Ansible
@@ -70,7 +70,7 @@
 ### Auth Plugins
 
 * [Kong OpenID Connect](https://github.com/nokia/kong-oidc) ⚠️ Archived - Plugin for Kong implementing the OpenID Connect Relying Party (RP) functionality
-* [Kong External OAuth 2.0](https://github.com/mogui/kong-external-oauth) ⭐ 77 | 🐛 5 | 🌐 Lua | 📅 2018-01-09 - Use an external OAuth 2.0 provider to protect your API
+* [Kong External OAuth 2.0](https://github.com/mogui/kong-external-oauth) ⭐ 76 | 🐛 5 | 🌐 Lua | 📅 2018-01-09 - Use an external OAuth 2.0 provider to protect your API
 
 ## Resources
 
@@ -122,4 +122,4 @@ To the extent possible under law, [Byungjin Park](http://www.posquit0.com) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
