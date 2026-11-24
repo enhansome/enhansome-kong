@@ -21,7 +21,7 @@
                 "open_issues": 293,
                 "owner": "Kong",
                 "repo": "kubernetes-ingress-controller",
-                "stars": 2415,
+                "stars": 2416,
                 "topics": [
                   "apis",
                   "crds",
@@ -246,8 +246,8 @@
                 "id": 157048481,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T22:51:20Z",
-                "open_issues": 118,
+                "last_commit": "2026-11-23T09:56:53Z",
+                "open_issues": 122,
                 "owner": "Kong",
                 "repo": "deck",
                 "stars": 507,
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:22:54.353Z",
+    "last_updated": "2026-11-24T04:20:25.829Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome resources for Kong API Gateway",
